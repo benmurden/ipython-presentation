@@ -30,7 +30,7 @@ pyzmq==14.4.1
 requests>=2.20.0
 scipy==0.14.0
 six==1.8.0
-tornado==4.0.2
+tornado==6.3.2
 twitter==1.15.0
 websocket==0.2.1
 wsgiref==0.1.2
